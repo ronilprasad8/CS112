@@ -44,7 +44,3 @@ Ensure `studentData.txt` is formatted as follows:
 S00001	46.05	39.4
 S00002	23.6	12.4
 S00003	17.3	17.8
-
-Authors
-Ronil Prasad (ID: S11231541)
-Shivan S. Prasad (ID: S11231502)
